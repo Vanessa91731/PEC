@@ -6,10 +6,12 @@ https://templatemo.com/tm-556-catalog-z
 
 */
 body{
-    background: url(cetis155.png);
+    background: url(fondo1.jpeg);
     background-size: cover;
-    background-position: end;
+    background-position: center;
     margin: 10px;
+    position: relative;
+    
 }
 
 #titulo{
@@ -34,7 +36,9 @@ body{
     width: 100px;
     padding: 10px;
 }
-
+#sabe{
+    font-family: fantasy;
+}
 
 
 
